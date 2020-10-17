@@ -1,0 +1,50 @@
+body{
+	font-family: Courier;
+}
+h1,h3{
+	font-weight: bold;
+}
+button{
+	height: 50px;
+	line-height: 50px;
+	font-weight: bold;
+}
+.title h1{
+	height: 80px;
+    line-height: 150px;
+}
+.title{
+	height: 150px;
+
+}
+a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+.also_like h2{
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	line-height: 60px;
+}
+.next{
+	background:#718CA1;;
+	color: white;
+}
+#play_btn{
+	background: #718CA1;
+}
+.male a{
+	color: black;
+}
+.try{
+	width: 200px;
+    float: right;
+}
+.share{
+	width: 200px;
+}
